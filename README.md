@@ -1,5 +1,5 @@
-Shadowsocks for iOS and OSX
-===========================
+Shadowsocks for iOS 9+ and OSX
+===============================
 大多数Shadowsocks源码支持的是32bit，iOS9以后的系统一般都是64bit，提供的这个版本是iPhone 64bit可运行，iOS9以后可运行的。
 
 Most of the Shadowsocks source support is 32bit, and iOS9's system is generally 64bit. This version is available for iPhone 64bit, which can be run after iOS9.
@@ -10,6 +10,7 @@ If it helps you, please help me to light the star~
 
 
 运行方法：
+
 git clone git@github.com:ArtemisFang/shadowsocks-iOS-for64bit.git
 
 cd shadowsocks-iOS-for64bit
@@ -29,7 +30,8 @@ cd ..
 pod install
 
 
-====================================================
+Shadowsocks for iOS and OSX
+-----
 
 
 [![Build Status](https://travis-ci.org/shadowsocks/shadowsocks-iOS.svg?branch=master)](https://travis-ci.org/shadowsocks/shadowsocks-iOS)
