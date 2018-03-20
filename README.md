@@ -5,7 +5,21 @@ Shadowsocks for iOS and OSX
 Most of the Shadowsocks source support is 32bit, and iOS9's system is generally 64bit. This version is available for iPhone 64bit, which can be run after iOS9.
 
 如果对你有帮助请帮我点上小星星~
+
 If it helps you, please help me to light the star~
+
+
+运行方法：
+git clone git@github.com:ArtemisFang/shadowsocks-iOS-for64bit.git
+cd shadowsocks-iOS-for64bit
+git submodule init
+git submodule update
+cd AppProxyCap/
+git submodule init
+git submodule update
+cd ..
+pod install
+
 
 ====================================================
 
