@@ -11,13 +11,21 @@ If it helps you, please help me to light the star~
 
 运行方法：
 git clone git@github.com:ArtemisFang/shadowsocks-iOS-for64bit.git
+
 cd shadowsocks-iOS-for64bit
+
 git submodule init
+
 git submodule update
+
 cd AppProxyCap/
+
 git submodule init
+
 git submodule update
+
 cd ..
+
 pod install
 
 
