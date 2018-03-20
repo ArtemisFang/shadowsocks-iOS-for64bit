@@ -6,7 +6,8 @@ Most of the Shadowsocks source support is 32bit, and iOS9's system is generally 
 
 如果对你有帮助请帮我点上小星星~
 If it helps you, please help me to light the star~
-===========================
+
+====================================================
 
 
 [![Build Status](https://travis-ci.org/shadowsocks/shadowsocks-iOS.svg?branch=master)](https://travis-ci.org/shadowsocks/shadowsocks-iOS)
